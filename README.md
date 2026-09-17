@@ -1,6 +1,6 @@
 # 福宁德
 
-| [中文](README.md) | [English](README_en.md) |
+| [中文](README.md) | [English](README.en.md) |
 
 让【手机/平板】作为个人电脑显示屏
 
@@ -18,6 +18,8 @@
 1. [libimobiledevice](https://libimobiledevice.org/)
 2. [Weylus](https://github.com/H-M-H/Weylus)
 3. [Deskreen CE (Community Edition)](https://github.com/pavlobu/deskreen)
+4. [Moonlight Game Streaming Project](https://github.com/moonlight-stream)
+5. [Sunshine](https://github.com/LizardByte/Sunshine)
 
 ## 2. 安卓手机/平板
 

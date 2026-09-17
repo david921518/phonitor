@@ -1,6 +1,6 @@
 # phonitor
 
-| [中文](README.md) | [English](README_en.md) |
+| [中文](README.md) | [English](README.en.md) |
 
 Phone/Pad as a PC monitor
 
@@ -18,6 +18,8 @@ Phone/Pad as a PC monitor
 1. [libimobiledevice](https://libimobiledevice.org/)
 2. [Weylus](https://github.com/H-M-H/Weylus)
 3. [Deskreen CE (Community Edition)](https://github.com/pavlobu/deskreen)
+4. [Moonlight Game Streaming Project](https://github.com/moonlight-stream)
+5. [Sunshine](https://github.com/LizardByte/Sunshine)
 
 ## 2. Android Phone/Pad
 
