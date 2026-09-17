@@ -16,6 +16,8 @@ Phone/Pad as a PC monitor
 ### 1.3 Useful Tools
 
 1. [libimobiledevice](https://libimobiledevice.org/)
+2. [Weylus](https://github.com/H-M-H/Weylus)
+3. [Deskreen CE (Community Edition)](https://github.com/pavlobu/deskreen)
 
 ## 2. Android Phone/Pad
 
